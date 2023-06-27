@@ -9,4 +9,4 @@ services:
     environment:
       - POSTGRES_DB=user
       - POSTGRES_USER=user
-      - POSTGRES_PASSWORD=f85631486afcgit init
+      - POSTGRES_PASSWORD=f85631486afc
